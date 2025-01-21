@@ -17,6 +17,7 @@ public class Movement : MonoBehaviour
     public GameObject fallBarrier;
     public bool outside = true;
 
+    //this is a test
 
     void Start()
     {

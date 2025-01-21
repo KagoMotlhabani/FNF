@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "GameProdGame.sln"
+    "dotnet.defaultSolution": "FNF.sln"
 }
